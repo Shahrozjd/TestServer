@@ -1,4 +1,4 @@
-{TestData:
+{"TestData":[
   {
     "_id": "5973782bdb9a930533b05cb2",
     "isActive": true,
@@ -26,4 +26,4 @@
     ],
     "favoriteFruit": "banana"
   }
-}
+]}
